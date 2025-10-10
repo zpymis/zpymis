@@ -1,6 +1,6 @@
 # Missael Rangel
 
-**Guadalajara, Mexico** · [missael.rangeel@gmail.com](mailto:missael.rangeel@gmail.com) · [Portfolio](https://missaelr.com) · [LinkedIn](https://www.linkedin.com/in/missaelrangel)
+**Guadalajara, Mexico** · [missael.rangeel@gmail.com](mailto:missael.rangeel@gmail.com) · [Portfolio](https://missaelr.com/en) · [LinkedIn](https://www.linkedin.com/in/missaelrangel)
 
 Computer Engineer focused on Frontend Development (React/TypeScript), building scalable and high-performance experiences. Proficient in Single Page Applications (SPA) with strong accessibility (WCAG/A11y), clean architecture (BEM, mobile-first), and advanced performance practices (React Hooks, code-splitting, lazy loading, PWA). I aim to apply problem-solving and collaboration in Agile/Scrum environments to drive measurable results.
 
